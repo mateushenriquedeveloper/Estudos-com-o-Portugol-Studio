@@ -1,5 +1,5 @@
 programa
- /*Lista que Cadastra Nomes de convidados*/
+ /*Lista que Cadastra Nomes de convidados.*/
 {
 	
 	funcao inicio()
